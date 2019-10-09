@@ -1,0 +1,53 @@
+/* ======================================= Table Dinamis ======================
+	border:1px solid #dadada;
+*/
+.TableDinamis{
+	width:99%;
+}
+
+
+.table thead tr th{
+	background:#f9f9f9 !important;
+}
+/*
+.table thead tr th:first-child{
+	border-left:1px solid #dfdfdf !important;
+}
+
+.table tbody tr td{
+	border-bottom:1px solid #dfdfdf !important;
+	border-right:1px solid #dfdfdf !important;
+}
+
+.table tbody tr td:first-child{
+	border-left:1px solid #dfdfdf !important;
+}
+*/
+
+/*============================== End Tabel Dinamis ===============================*/
+
+/* =============================  Koneksi Los =======================================*/
+.LosKoneksi{
+	position:absolute;
+	top:50%;
+	left:50%;
+	-webkit-transform:translate(-50%,-50%);
+	-moz-transform:translate(-50%,-50%);
+	-ms-transform:translate(-50%,-50%);
+	-o-transform:translate(-50%,-50%);
+	transform:translate(-50%,-50%);
+	width: 400px;
+	min-height: 300px;
+	padding: 45px 40px 20px 40px;
+	background: rgba(256,180,171,0.6);
+	font-size:34px;
+	color:#961001;
+	border:1px solid #fe8d81;
+}
+
+.LosKoneksi i{font-size:100px;}
+/* =============================  End Koneksi Los =======================================*/
+
+
+
+
